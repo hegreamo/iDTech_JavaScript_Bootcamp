@@ -1,2 +1,2 @@
 # Working with Basic Data Types Activity
-In this section, I learned how to work with basic data types in JavaScript.
+In this section, I learned how to work with basic data types in JavaScript. I created a story by concatenating various strings, integers, booleans and elements in arrays.

@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+In this activity, I learned how to loop through an array using a for loop and accessing its elements. I created a short program that takes and array of words and outputs it as a complete sentence.
