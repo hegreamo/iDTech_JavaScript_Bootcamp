@@ -1,0 +1,15 @@
+{
+    "name": "Unit Testing Activity",
+    "version": "1.0.0",
+    "description": "Testing Greetings",
+    "main": "unitTestingActivity.js",
+    "dependencies": {
+      "course-utilities": "^1.0.0",
+      "jest": "^26.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "jest"
+    }
+  }
+  
